@@ -1,0 +1,7 @@
+DOCKER_IMAGE='stu-sonarr'
+DOCKER_NAME='stu-sonarr'
+
+SONARR_CONFIG='/storage/docker/docker-sonarr/'
+SONARR_COMPLETED='/storage/complete/tv'
+SONARR_DATA='/storage/complete'
+
